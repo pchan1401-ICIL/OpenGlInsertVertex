@@ -1437,6 +1437,8 @@ containing a value of this type.
         public static final int yoshi_egg=0x7f020034;
     }
     public static final class id {
+        public static final int FrameLayout1=0x7f080050;
+        public static final int LinearLayout1=0x7f080051;
         public static final int action_bar=0x7f080042;
         public static final int action_bar_activity_content=0x7f080000;
         public static final int action_bar_container=0x7f080041;
@@ -1450,14 +1452,14 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f08003f;
         public static final int action_mode_bar_stub=0x7f08003e;
         public static final int action_mode_close_button=0x7f080031;
-        public static final int action_settings=0x7f080055;
+        public static final int action_settings=0x7f080057;
         public static final int activity_chooser_view_content=0x7f080032;
         public static final int alignBounds=0x7f080015;
         public static final int alignMargins=0x7f080016;
         public static final int always=0x7f080027;
         public static final int beginning=0x7f080025;
         public static final int bottom=0x7f080017;
-        public static final int button1=0x7f080054;
+        public static final int button1=0x7f080056;
         public static final int center=0x7f080018;
         public static final int center_horizontal=0x7f080019;
         public static final int center_vertical=0x7f08001a;
@@ -1484,7 +1486,6 @@ containing a value of this type.
         public static final int ifRoom=0x7f080029;
         public static final int image=0x7f080034;
         public static final int left=0x7f080021;
-        public static final int linearLayout1=0x7f080050;
         public static final int listMode=0x7f080009;
         public static final int list_item=0x7f080036;
         public static final int middle=0x7f080026;
@@ -1494,9 +1495,9 @@ containing a value of this type.
         public static final int progress_circular=0x7f080005;
         public static final int progress_horizontal=0x7f080006;
         public static final int radio=0x7f08003c;
-        public static final int radioButton1=0x7f080052;
-        public static final int radioButton2=0x7f080053;
-        public static final int radioGroup1=0x7f080051;
+        public static final int radioButton1=0x7f080054;
+        public static final int radioButton2=0x7f080055;
+        public static final int radioGroup1=0x7f080053;
         public static final int right=0x7f080022;
         public static final int search_badge=0x7f080046;
         public static final int search_bar=0x7f080045;
@@ -1508,6 +1509,7 @@ containing a value of this type.
         public static final int search_plate=0x7f08004a;
         public static final int search_src_text=0x7f08004b;
         public static final int search_voice_btn=0x7f08004f;
+        public static final int seekBar=0x7f080052;
         public static final int shortcut=0x7f08003b;
         public static final int showCustom=0x7f08000f;
         public static final int showHome=0x7f080010;
