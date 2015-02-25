@@ -1,6 +1,6 @@
-E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\classes\debug
-E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-197c5b2c63ca88b2c582ab07ae54e582b8ee90b5.jar
-E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-e8606be858e9a48f2d43e5e00b3c67e607c9db38.jar
-E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-31f8ef100c047fd5ca31d7a089782c55ab8ddd0d.jar
-E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-310570d595cfa1069507a6c74bb66d70bcac0340.jar
-E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-6c1ae0bf9e928d8d467206db6af0f254cefd26f6.jar
+E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\classes\debug
+E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-197c5b2c63ca88b2c582ab07ae54e582b8ee90b5.jar
+E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-8da6fff9915a5b979903c0757be5ad22e84a3632.jar
+E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-03d5fb4b72d21a2c89e5c02a22511e8951291aea.jar
+E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-a876015f5748daf76257e91d71c8fcb544ead9b7.jar
+E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-27713b8002941891867236e6ed688d948bcadbdf.jar

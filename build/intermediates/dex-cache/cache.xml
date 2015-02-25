@@ -9,6 +9,34 @@
         <dex dex="E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-197c5b2c63ca88b2c582ab07ae54e582b8ee90b5.jar" />
     </item>
     <item
+        jar="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e8c06a7aad26ba8d2d5cab8134556594fe36856">
+        <dex dex="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-8da6fff9915a5b979903c0757be5ad22e84a3632.jar" />
+    </item>
+    <item
+        jar="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-a876015f5748daf76257e91d71c8fcb544ead9b7.jar" />
+    </item>
+    <item
+        jar="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-03d5fb4b72d21a2c89e5c02a22511e8951291aea.jar" />
+    </item>
+    <item
+        jar="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android\Android_studios\3DGLIOTest\OpenGlInsertVertex\build\intermediates\pre-dexed\debug\classes-27713b8002941891867236e6ed688d948bcadbdf.jar" />
+    </item>
+    <item
         jar="E:\Android\Android_studios\OpenGlInsertVertex\OpenGlInsertVertex\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"

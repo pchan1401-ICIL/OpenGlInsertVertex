@@ -85,6 +85,7 @@
       <excludeFolder url="file://$MODULE_DIR$/OpenGlInsertVertex/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/OpenGlInsertVertex/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/OpenGlInsertVertex/build/outputs" />
+      <excludeFolder url="file://$MODULE_DIR$/OpenGlInsertVertex/build/tmp" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 21 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -45,26 +45,6 @@
                 android:id="@+id/radioButton2" />
         </RadioGroup>
 
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/editText1"
-            android:text="0" />
-
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/editText2"
-            android:layout_gravity="center_horizontal"
-            android:text="0" />
-
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:id="@+id/editText3"
-            android:layout_gravity="center_horizontal"
-            android:text="0" />
-
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
